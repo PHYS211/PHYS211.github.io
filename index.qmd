@@ -15,7 +15,7 @@ From [xkcd.com](https://xkcd.com/123/)
 
 ## Course Description
 
-A rigorous study of Newtonian mechanics. Beginning with Newton’s laws, the concepts of energy, momentum, and angular momentum are developed and applied to gravitational, harmonic, and rigid-body motions. 
+A rigorous study of Newtonian mechanics. Beginning with Newton's laws, the concepts of energy, momentum, and angular momentum are developed and applied to gravitational, harmonic, and rigid-body motions.
 
 Normally offered every year, fall
 
