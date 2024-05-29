@@ -1,11 +1,24 @@
 ---
-title: "PHYS 211 Website"
+title: "PHYS 211"
+format: 
+  html:
+    link-external-newwindow: true
+editor: visual
+jupyter: python3
 ---
 
-This is a Quarto website.
+# PHYS 211 Newtonian Physics
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![xkcd: Centrifugal force](https://imgs.xkcd.com/comics/centrifugal_force.png)
 
-```{r}
-1 + 1
-```
+From [xkcd.com](https://xkcd.com/123/)
+
+## Course Description
+
+A rigorous study of Newtonian mechanics. Beginning with Newton’s laws, the concepts of energy, momentum, and angular momentum are developed and applied to gravitational, harmonic, and rigid-body motions. 
+
+Normally offered every year, fall
+
+## Prerequisites
+
+MATH 106 and PHYS 107 or 109.

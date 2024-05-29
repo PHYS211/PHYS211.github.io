@@ -1,19 +1,24 @@
 project:
   type: website
+  output-dir: .
 
 website:
-  title: "PHYS 211 Website"
+  title: "PHY 117"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: https://phy117.github.io/Spring2024/
+        text: "Spring 2024" 
+        target: _blank #makes it open in new page
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
+editor: visual
+self-contained: true
 
 
